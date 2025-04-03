@@ -15,7 +15,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/Abed25)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/Abed25)
 
-### 💻 Tech Stack
+## 💻 Tech Stack
+
 ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)  
@@ -26,7 +27,8 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)  
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=ethereum&logoColor=white)  
 
-🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)  
