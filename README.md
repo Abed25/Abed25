@@ -17,22 +17,23 @@
 
 ## 💻 Tech Stack
 
-![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)  
-![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)  
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)  
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=ethereum&logoColor=white)  
+![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?logo=express)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=ethereum&logoColor=white)
 
 ## 🛠️ Tools & Platforms
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)  
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-282C34?logo=ethereum&logoColor=white)
 
 💡 *Keep building, keep learning!* 🚀
