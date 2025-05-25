@@ -36,4 +36,7 @@
 ![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
 ![Remix IDE](https://img.shields.io/badge/Remix_IDE-282C34?logo=ethereum&logoColor=white)
 
-💡 *Keep building, keep learning!* 🚀
+## Extra
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/web3superdev) 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Abed25.Abed25)
+
