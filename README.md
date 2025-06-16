@@ -32,19 +32,22 @@
 
 ## 🛠️ Tools & Platforms
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
-![HOSTAFRICA](https://img.shields.io/badge/HOSTAFRICA-0054A6?style=flat&logoColor=white)
-![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)
-![Clever Cloud](https://img.shields.io/badge/Clever_Cloud-000?logo=clever-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
+![draw.io](https://img.shields.io/badge/draw.io-F08705?style=flat&logo=diagrams-dot-net&logoColor=white)
+![Eraser](https://img.shields.io/badge/Eraser-FF6F61?style=flat&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Remix IDE](https://img.shields.io/badge/Remix_IDE-282C34?logo=ethereum&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat&logo=cursor&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?logo=gnu-bash&logoColor=white)
 ![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-47A248?logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?logo=mongodb&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=flat&logo=cursor&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E)
-![Remix IDE](https://img.shields.io/badge/Remix_IDE-282C34?logo=ethereum&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?logo=phpmyadmin&logoColor=white)
+![Clever Cloud](https://img.shields.io/badge/Clever_Cloud-000?logo=clever-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) 
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![HOSTAFRICA](https://img.shields.io/badge/HOSTAFRICA-0054A6?style=flat&logoColor=white)
+
 
 ## Extra
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/web3superdev) 
